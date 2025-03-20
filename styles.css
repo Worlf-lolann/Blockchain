@@ -237,7 +237,7 @@ header h1::after {
 .Slide3 .text ol li {
     padding: 10px 0;
     position: relative;
-    list-type-style: none;
+    list-style-type: none;
 }
 
 .Slide3 .text ol li h4 {
