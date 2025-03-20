@@ -1,4 +1,4 @@
-* {
+    * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -237,6 +237,7 @@ header h1::after {
 .Slide3 .text ol li {
     padding: 10px 0;
     position: relative;
+    list-type-style: none;
 }
 
 .Slide3 .text ol li h4 {
